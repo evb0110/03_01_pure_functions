@@ -1,1 +1,1 @@
-import numToColor from './numToColor';
+import numToColor from './js/numToColor';
